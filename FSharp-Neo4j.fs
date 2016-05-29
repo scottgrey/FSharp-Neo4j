@@ -1,4 +1,4 @@
-module FSharpNeo4j
+module FSharp.Neo4j
 
 open System
 open Neo4j.Driver.V1
